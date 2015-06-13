@@ -4,3 +4,22 @@
 6.2.5 Uniqueness validation...
 
 6.3 Adding a secure password ..
+
+DONE with CH 6
+
+6.4.1 What we learned in this chapter
+
+    Migrations allow us to modify our application’s data model.
+    
+    Active Record comes with a large number of methods for creating and manipulating data models.
+    
+    Active Record validations allow us to place constraints on the data in our models.
+    
+    Common validations include presence, length, and format.
+    
+    Regular expressions are cryptic but powerful.
+    
+    Defining a database index improves lookup efficiency while allowing enforcement of uniqueness at the database level.
+    
+    We can add a secure password to a model using the built-in has_secure_password method. 
+
